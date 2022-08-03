@@ -4,6 +4,6 @@ int main(void)
 {
 	Viewer* viewer = new Viewer();
 	viewer->Run();
-	//kim
+	//test123
 	return 0;
 }
